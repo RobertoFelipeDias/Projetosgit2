@@ -6,6 +6,6 @@ int main()
 {
     system("mode con:cols=100 ");
     setlocale(LC_ALL,"portuguese") ;
-    printf("Hello world!\n");
+    printf("Olá mundo!\n");
     return 0;
 }
