@@ -8,6 +8,7 @@ int main()
     setlocale(LC_ALL,"portuguese") ;
     printf("Olá mundo!\n");
     printf("Nova linha do Olá mundo!\n");
+    printf("Inserindo uma linha usuario B\n");
 
     return 0;
 }
